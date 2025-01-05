@@ -21,5 +21,5 @@ int main(){
         } else for(j=1;j<=7;j++) cout << "*";
     cout << endl;
     }
-    return 0;
-}
+    return 0;
+}   
